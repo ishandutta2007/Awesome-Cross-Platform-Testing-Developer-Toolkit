@@ -30,6 +30,7 @@
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🏗️ Building Custom Testing Stacks](#️-building-custom-testing-stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
 - [⚖️ Disclaimer](#️-disclaimer)
 
@@ -99,6 +100,25 @@ Contributions are warmly welcome! Help make this toolkit the definitive resource
 3. 📝 **Add/Update** the tool entry in `README.md` keeping alphabetical star sorting intact.
 4. 🚀 **Commit** changes: `git commit -m "Add tool name"`.
 5. 📬 **Submit** a Pull Request with a clear rationale and verification links.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using the **Awesome Cross-Platform Testing Developer Toolkit**! If you find this curated resource helpful for your QA workflows, testing infrastructure, or engineering decisions, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork & Share** it with your developer and QA network, team, or community.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to back ongoing maintenance and open-source tooling, you can sponsor through the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Every bit of support is deeply appreciated!
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
