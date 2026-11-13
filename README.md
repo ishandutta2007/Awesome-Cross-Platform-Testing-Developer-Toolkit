@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Testing-Developer-Toolkit/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cross-Platform-Testing-Developer-Toolkit?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Testing-Developer-Toolkit/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cross-Platform-Testing-Developer-Toolkit?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Testing-Developer-Toolkit/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cross-Platform-Testing-Developer-Toolkit?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Testing-Developer-Toolkit/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cross-Platform-Testing-Developer-Toolkit?style=flat-square&logo=github&color=red" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cross-Platform-Testing-Developer-Toolkit/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -57,9 +57,9 @@ The sector exhibits a **hybrid market structure**: it is moderately concentrated
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source testing frameworks and developer toolkits, sorted by **GitHub Stars (descending)**:
+Curated open-source testing frameworks and developer toolkits, sorted by **GitHub_Stars (descending)**:
 
-| Project | Star Count Badge | Description |
+| Project | Stars_Count Badge | Description |
 |:---|:---:|:---|
 | **[Playwright](https://github.com/microsoft/playwright)** | [![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers) | 🎭 **Microsoft's cross-browser automation framework** (Apache-2.0). Provides a unified API for Chromium, Firefox, and WebKit with built-in auto-waiting, network interception, multi-tab contexts, and trace debugging. Leading choice for modern web testing. |
 | **[Puppeteer](https://github.com/puppeteer/puppeteer)** | [![Stars](https://img.shields.io/github/stars/puppeteer/puppeteer?style=social&color=white)](https://github.com/puppeteer/puppeteer/stargazers) | ⚡ **Google's headless browser automation library** (Apache-2.0). Provides high-level control over Chrome or Firefox via the DevTools protocol. Benchmark for PDF generation, crawler scraping, and client-side UI rendering verification. |
